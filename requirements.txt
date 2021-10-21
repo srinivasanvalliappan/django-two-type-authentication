@@ -1,4 +1,4 @@
-Babel==2.7.0
+Babel==2.9.1
 Django==1.11
 django-formtools==2.1
 django-otp==0.7.2
